@@ -1,0 +1,14 @@
+.page {
+  background-color: #2A2C2F;
+  min-width: 1280;
+}
+
+.header {
+  display: flex;
+}
+
+.header__logo {
+  background-image: url(../../../images/header-logo.svg);
+  height: 52px;
+  width: 176px;
+}
