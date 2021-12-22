@@ -1,0 +1,15 @@
+.footer__copiright {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 14px;
+  /* identical to box height, or 100% */
+  color: #FFFFFF;
+  margin-top: 48px;
+}
+
+@media screen and (min-width:768px) {
+  .footer__copiright {
+    margin: 0;
+  }
+}
