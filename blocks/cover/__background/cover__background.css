@@ -11,7 +11,7 @@
 
 @media screen and (min-width: 1280px) {
   .cover__background {
-    min-height: calc(62.5vw - 96px);
+    min-height: 740px;
     margin: 0 48px;
   }
 }
